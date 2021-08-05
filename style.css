@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+ }
+ *{
+     border:dashed;
+ }
+img{
+    width:500px;
+}
+.header{
+   background-color: cyan;
+display:flex;
+justify-content: space-around;
+}
+.header2{
+ display:flex;
+flex-flow: cloumn wrap;
+width:300px;
+justify-content: space-between;
+}
